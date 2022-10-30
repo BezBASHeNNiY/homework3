@@ -1,2 +1,4 @@
-package ua.ithillel.first;public class SameName {
+package ua.ithillel.first;
+
+public class SameName {
 }

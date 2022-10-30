@@ -1,2 +1,4 @@
-package ua.ithillel.second;public class SameName {
+package ua.ithillel.second;
+
+public class SameName {
 }
